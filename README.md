@@ -70,13 +70,13 @@ The server has many features added, and a lot of configuration settings. Most of
 ## Cloning this repository
 
 ```
-$ git clone --recursive https://github.com/Quackster/Kepler
+$ git clone --recursive https://github.com/kegri/Kepler
 ```
 
 **or**
 
 ```
-$ git clone https://github.com/Quackster/Kepler
+$ git clone https://github.com/kegri/Kepler
 $ git submodule update --init --recursive
 ```
 
